@@ -13,6 +13,8 @@ Access data here: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/jma8
 3. Select your data and click Next until import is complete
 4. Repeat for the remaining data files
 
+*Note: CSV data is needed entirely for uploading to phpMyAdmin, but a JSON files were used for certain MySQLWorkbench queries
+
 ## How to run queries:
 1. Open queries.sql in MySQL Workbench
 2. Click the lightning bolt icon in the top left corner. Query results should appear in the bottom half of the screen
