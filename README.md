@@ -14,6 +14,7 @@ Access data here: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/jma8
 4. Repeat for the remaining data files
 
 *Note: CSV data is needed entirely for uploading to phpMyAdmin, but a JSON files were used for certain MySQLWorkbench queries
+**Note: Due to the extremely large nature of reportedCrime.CSV, the easiest way we found to upload the data to phpMyAdmin was to establish the connection first and then load the data into MySQLWorkbench
 
 ## How to run queries:
 1. Open queries.sql in MySQL Workbench
